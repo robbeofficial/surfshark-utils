@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # download configs
-wget https://account.surfshark.com/api/v1/server/configurations
+wget https://my.surfshark.com/vpn/api/v1/server/configurations
 unzip -o configurations
 rm configurations
 
